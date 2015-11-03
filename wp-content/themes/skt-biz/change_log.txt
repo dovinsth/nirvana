@@ -1,0 +1,23 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Change as per reviewer feedback.
+
+Version 1.2
+i) Removed custom header and default values of widget.
+
+Version 1.3
+i) Options Framework update and fix issues as per reviewer.
+
+Version 1.3.1
+i) Change as per reviewer feedback.
+
+Version 1.3.2
+i) Added default content on homepage.
+
+Version 1.3.3
+i) Resolved toggle menu scrollbar issue.
+
+Version 1.3.4
+i) Resolved blog post date issue and pricing changed.
